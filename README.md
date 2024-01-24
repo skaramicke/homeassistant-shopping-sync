@@ -1,0 +1,1 @@
+# homeassistant-shopping-sync
